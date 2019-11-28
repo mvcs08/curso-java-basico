@@ -1,5 +1,5 @@
-Curso Java Básico retirado do site da Loiane.
+#Curso Java Básico
 
-Aqui irei acrescentar todo meu desenvolvimento a partir deste curso.
+Criei este repositório para acompanhar meu desenvolvimento em Java.
 
-Até mais!
+##Observação: > Este curso encontra-se no site: https://loiane.training
