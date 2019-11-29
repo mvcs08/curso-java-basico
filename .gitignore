@@ -1,2 +1,4 @@
 # Ignorando arquivos .class
 *.class
+.classpath
+.project
