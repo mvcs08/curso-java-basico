@@ -18,3 +18,11 @@ Criei este repositório para acompanhar meu desenvolvimento em Java.
 * Menor que (<)
 * Maior ou igual que (>=)
 * Menor ou igual que (<=)
+
+## Operadores Lógicos
+* And (&)
+* Or (|)
+* Xor (^)
+* And curto-circuito (&&)
+* Or curto-circuito (||)
+* Not (!)
