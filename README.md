@@ -26,3 +26,8 @@ Criei este repositório para acompanhar meu desenvolvimento em Java.
 * And curto-circuito (&&)
 * Or curto-circuito (||)
 * Not (!)
+
+## Controle de decisão
+* IF => Executa uma ação caso a condição seja verdadeira.
+* Else => Executa uma ação caso nenhuma condição seja satisfeita.
+* Switch case => Avalia cada caso e executa uma ação caso uma condição seja verdadeira.
