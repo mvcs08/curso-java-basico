@@ -32,4 +32,12 @@ Criei este repositório para acompanhar meu desenvolvimento em Java.
 * Else => Executa uma ação caso nenhuma condição seja satisfeita.
 * Switch case => Avalia cada caso e executa uma ação caso uma condição seja verdadeira.
 
-##Marcos Vinicius
+## Marcos Vinicius
+A
+D
+D
+D
+C
+C
+C
+## Marcos Vinicius
